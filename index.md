@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 파이데이란?
 
-You can use the [editor on GitHub](https://github.com/boo-hee/PIday/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+곧 있을 파이데이를 맞아 수학과에서 파이데이 행사를 진행합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+학년별로 다양한 활동이 준비되어 있습니다.
 
-### Markdown
+파이데이가 무엇인지, 그리고 각 학년별로 어떤 활동들을 하게 될지 알아봅시다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 우리 학교에서 진행하게 될 파이데이 행사 안내
+
+학년별로 다양한 활동이 준비되어 있습니다. 한 번 알아볼까요?
 
 ```markdown
-Syntax highlighted code block
+학년별로 진행할 활동 안내
 
-# Header 1
-## Header 2
-### Header 3
+# 1학년
+- 파이 디자인
+## 2학년
+- 삼행시, 사행시 짓기
+### 3학년
+- 수학티콘 디자인
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boo-hee/PIday/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+학년별로 활동은 다르나 필요한 준비물같습니다.
+'싸인펜' 혹은 '색연필' 등 꾸밀 수 있는 학용품을 준비해주세요.
