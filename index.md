@@ -1,3 +1,5 @@
+![여자수학선생님이미지](https://user-images.githubusercontent.com/81297228/118801016-84c84c80-b8db-11eb-9aea-d1df2a446dac.png)
+
 ## 파이데이란?
 
 곧 있을 파이데이를 맞아 수학과에서 파이데이 행사를 진행합니다.
