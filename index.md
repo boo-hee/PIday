@@ -1,4 +1,4 @@
-![파이(3 14)_줄인것](https://user-images.githubusercontent.com/81297228/119222815-209ec600-bb31-11eb-9bee-613b0dc10b02.JPG)
+![pi-mathematical-constant-symbol](https://user-images.githubusercontent.com/81297228/119222250-54c4b780-bb2e-11eb-90d4-b08ca80a2d17.png)
 
 # **더 자세한 내용은 오른쪽 하단의 챗봇을 통해서 더욱 자세히 알아보세요.**
 
