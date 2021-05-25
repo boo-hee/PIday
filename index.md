@@ -1,4 +1,4 @@
-![pi-mathematical-constant-symbol](https://user-images.githubusercontent.com/81297228/119222250-54c4b780-bb2e-11eb-90d4-b08ca80a2d17.png)
+![pi-mathematical-constant-symbol](https://user-images.githubusercontent.com/81297228/119222250-54c4b780-bb2e-11eb-90d4-b08ca80a2d17.png){: width="50%" height="50%"}
 
 ## **더 자세한 내용을 위해 오른쪽 하단의 챗봇을 이용하세요~!**
 
