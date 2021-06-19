@@ -24,7 +24,7 @@
 
 ##### 학년별로 활동은 다르나 필요한 준비물은 '싸인펜' 혹은 '색연필' 등의 학용품으로 같습니다.
 
-## 참고문헌 및 온라인 출처
-1.  : 
-2.  : 
-3.  : 
+## 참고한 이미지 및 내용 출처
+1. π 이미지 : https://www.flaticon.com/free-icon/pi-mathematical-constant-symbol_43102?term=pi&page=1&position=2&page=1&position=2&related_id=43102&origin=search
+2. 원주율 개념 관련(네이버 수학백과) : https://terms.naver.com/entry.naver?docId=3405254&cid=47324&categoryId=47324, https://terms.naver.com/entry.naver?docId=957776&cid=47308&categoryId=47308
+3. 학생들 작품 예시 : 실제 올해 진관중학교 학생들이 만든 작품 
