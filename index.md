@@ -22,7 +22,7 @@
 3. 3학년 : 수학티콘 디자인
 - 원주율의 개념을 포함하여 수학 이모티콘 디자인 하기
 
-##### 학년별로 활동은 다르나 필요한 준비물은 '싸인펜' 혹은 '색연필' 등의 학용품으로 같습니다.
+** 준비물 : 전학년 모두 '싸인펜' 혹은 '색연필' 등 색칠 및 꾸밀 수 있는 학용품
 
 ## 참고한 이미지 및 내용 출처
 1. π 이미지 : https://www.flaticon.com/free-icon/pi-mathematical-constant-symbol_43102?term=pi&page=1&position=2&page=1&position=2&related_id=43102&origin=search
