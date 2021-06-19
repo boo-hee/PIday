@@ -1,7 +1,7 @@
 ![pi-mathematical-constant-symbol](https://user-images.githubusercontent.com/81297228/119222250-54c4b780-bb2e-11eb-90d4-b08ca80a2d17.png){: width="40%" height="40%"}
 
 ## **진관중학교 파이데이 행사 안내 홈페이지입니다.**
-## **더 자세한 내용을 위해 오른쪽 하단의 챗봇을 이용하세요~!**
+## **더 자세한 내용을 위해 오른쪽 하단의 파이데이 챗봇을 이용하세요~!**
 
 ## 파이데이란?
 
