@@ -26,5 +26,5 @@
 
 ## 참고한 이미지 및 내용 출처
 1. π 이미지 : https://www.flaticon.com/free-icon/pi-mathematical-constant-symbol_43102?term=pi&page=1&position=2&page=1&position=2&related_id=43102&origin=search
-2. 원주율 개념 관련(네이버 수학백과) : https://terms.naver.com/entry.naver?docId=3405254&cid=47324&categoryId=47324, https://terms.naver.com/entry.naver?docId=957776&cid=47308&categoryId=47308
+2. 원주율 개념 관련(네이버 수학백과) : https://terms.naver.com/alikeMeaning.naver?query=E00240347, https://terms.naver.com/entry.naver?docId=3405254&cid=47324&categoryId=47324, https://terms.naver.com/entry.naver?docId=957776&cid=47308&categoryId=47308
 3. 학생들 작품 예시 : 실제 올해 진관중학교 학생들이 만든 작품 
